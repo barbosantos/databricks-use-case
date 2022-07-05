@@ -1,0 +1,9 @@
+{
+	"name": "df-depkpmg",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a5a437dc-c413-44ea-882f-dd04f3ba60ed",
+		"tenantId": "d4e8a2a5-0301-4a81-9187-ecaaec70bd74"
+	}
+}
