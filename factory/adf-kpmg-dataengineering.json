@@ -1,0 +1,9 @@
+{
+	"name": "adf-kpmg-dataengineering",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9785fd9-1056-495b-b4cf-d1acd4eecf93",
+		"tenantId": "d4e8a2a5-0301-4a81-9187-ecaaec70bd74"
+	}
+}
