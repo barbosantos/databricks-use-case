@@ -1,0 +1,18 @@
+{
+	"name": "DestinationDataset_i4d",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "decase3",
+				"fileSystem": "kpmgdata"
+			}
+		}
+	}
+}
