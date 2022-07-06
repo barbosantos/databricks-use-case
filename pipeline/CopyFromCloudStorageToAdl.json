@@ -20,7 +20,7 @@
 					},
 					{
 						"name": "Destination",
-						"value": "kpmgdata//decase3"
+						"value": "kpmgdata//decase3.xlsx"
 					}
 				],
 				"typeProperties": {
