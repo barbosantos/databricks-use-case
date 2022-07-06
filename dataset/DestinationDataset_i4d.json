@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "decase3",
+				"fileName": "decase3.xlsx",
 				"fileSystem": "kpmgdata"
 			}
 		}
