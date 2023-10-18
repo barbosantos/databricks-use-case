@@ -40,3 +40,8 @@ o Number of visits for each day of week (Mon-Sun), e.g. one column per weekday.
 ```
 
 2. Additionally, write a query that tells us on which day of week that customers of the same age group (0-9 years, 10-19 years, etc.) visits the stores most often.
+
+
+# Technologies used
+
+Some of the technologies used in this simple project was azure data factory, datalake, databricks, pyspark and SQL.
